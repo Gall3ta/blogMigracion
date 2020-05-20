@@ -1,0 +1,2 @@
+# blogMigracion
+capacitación de git
